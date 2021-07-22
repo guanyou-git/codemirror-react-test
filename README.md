@@ -13,3 +13,5 @@ user@computer:~/$ git clone <GITHUB_URL>
 user@computer:~/codemirror-react-test$ docker-compose up -d --build
 ```
 
+## Demo output
+![alt text](https://github.com/guanyou-git/codemirror-react-test/blob/master/readme_image/intellisense.png)
